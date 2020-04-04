@@ -1,0 +1,10 @@
+﻿cl : командная строка warning D9025: переопределение "/sdl-" на "/GS-"
+  cApiHash.cpp
+  cCRC32.cpp
+  fEntry.cpp
+  Создание кода
+  Previous IPDB not found, fall back to full compilation.
+C:\Users\Admin\Desktop\CallApiByHash\cApiHash.cpp(51): warning C4715: GetFuncByHash: значение возвращается не при всех путях выполнения
+  All 3 functions were compiled because no usable IPDB/IOBJ from previous compilation was found.
+  Создание кода завершено
+  CallApiByHash.vcxproj -> C:\Users\Admin\Desktop\CallApiByHash\x64\Release\CallApiByHash.exe
