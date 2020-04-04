@@ -1,2 +1,2 @@
 # Call API By CRC32 Hash
-```Hiding api calls by hash example```
+```Hiding API calls by hash example```
